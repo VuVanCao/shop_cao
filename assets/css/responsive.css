@@ -140,7 +140,7 @@
     }
 
     .header__search-option{
-        top: calc(100% + 18px);
+        top: calc(100% + 15px);
     }
 
     .footer__heading{
